@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of a letter from Dvblin in Ireland, dated march 29, 1642 by Sir John Temple Knight ..., written to D. Temple, D. of divinity and pastor of battersey, neare London : relating the manner of taking the castle of Carrick-Maine, six miles from Dublin, by Sir Simon Harcourt and some English under his command : together with the manner of his hurt and death withsome other passages.</title>
+            <author>Temple, John, Sir, 1600-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64297</idno>
+            <idno type="STC">Wing T626</idno>
+            <idno type="STC">ESTC R2872</idno>
+            <idno type="EEBO-CITATION">13446932</idno>
+            <idno type="OCLC">ocm 13446932</idno>
+            <idno type="VID">99586</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64297)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99586)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 478:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of a letter from Dvblin in Ireland, dated march 29, 1642 by Sir John Temple Knight ..., written to D. Temple, D. of divinity and pastor of battersey, neare London : relating the manner of taking the castle of Carrick-Maine, six miles from Dublin, by Sir Simon Harcourt and some English under his command : together with the manner of his hurt and death withsome other passages.</title>
+                  <author>Temple, John, Sir, 1600-1677.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harcourt, Simon, --  Sir, 1603?-1642.</term>
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99586:1" rendition="simple:additions"/>
+            <p>THE COPIE OF A LETTER FROM DVBLIN IN IRELAND, Dated March 29. 1642.</p>
+            <p>By Sir <hi>John Temple</hi> Knight, Maſter of the Rolles, and one of his Majeſties privy Councell of that Kingdom, written to D. <hi>Temple,</hi> D. of Divinity and Paſtor of <hi>Batterſey,</hi> neare London:</p>
+            <p>RELATING THE MANNER OF taking the Caſtle of <hi>Carrick-Maine,</hi> ſix miles from <hi>Dublin,</hi> by Sir <hi>Simon. Harcourt,</hi> and ſome Engliſh under his Command:</p>
+            <p>Together with the manner of his hurt and death, with ſome other paſſages.</p>
+            <p>London printed for <hi>L. B.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:99586:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:99586:2"/>
+            <head>The Copy of a Letter from <hi>Dublin</hi> In <hi>Ireland,</hi> Dated <hi>March</hi> 29. 1642.</head>
+            <opener>
+               <salute>Deare Brother,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Muſt now with a very ſad heart, give you a ſad relation of our moſt unhappy loſſe of Sir <hi>Simon Harcourt,</hi> whom it pleaſed God to ſuffer to periſh by a Shot from the Caſtle of <hi>Carrick-maine</hi> ſixe miles from this towne towards the mountaines. He went out on Saturday morning, only to view, but being as it ſeemes, extreamly provoked by the Rogues within, and finding it in his owne judgement, a matter of no great difficul<g ref="char:EOLhyphen"/>ty to take it in, he there ſate downe with a troope of Horſe he had with him, and ſent for 1000. foot, and two pieces of Battery. There were many men in the Caſtle, but not above 12. Musquetiers, but ſuch good markemen, as they ſcarce ſhot one ſhot in vaine. They wounded ſeverall of our men, killed neare 20. and have very deſperately hurt Sergeant Major <hi>Berry,</hi> who arrived here but few dayes be<g ref="char:EOLhyphen"/>fore with 400. Fire-lockes, yet we hope he will re<g ref="char:EOLhyphen"/>cover. Sir <hi>Simon Harcourt</hi> ſo placed his Muſquetiers, that they played upon the windowes and leads ſo
+<pb n="2" facs="tcp:99586:3"/> faſt, as ſcarce any durſt peep out to diſcharge upon them, and he himſelfe lying behinde a little thatch<g ref="char:EOLhyphen"/>ed houſe to give direction, for the planting of the pieces of Battery, and hearing one ſay that one of the Rogues had laid a Muſquet out of the window, ſtood up to call to his men to ſhoot at him; juſt as the word was out of his mouth, was himſelfe ſhot in the right breaſt, and ſinking a little downe, re<g ref="char:EOLhyphen"/>commended with his firſt words his ſoule to God, and in the next place called thoſe Gentlemen that were by, to beare witneſſe that he gave all he had to his wife, and left his children to be provided for at her diſcretion, and being carryed into a little Ca<g ref="char:EOLhyphen"/>bine hard by, he deſired the other Commanders to leave him, and goe on to diſpatch their buſineſſe, which they did. But the Souldiers enraged with his hurt, and ſeeing the Ordnance did not make ſo ſpee<g ref="char:EOLhyphen"/>dy an entrance for them as they expected; impati<g ref="char:EOLhyphen"/>ent of further delay in taking revenge for their Co<g ref="char:EOLhyphen"/>lonels ſhot, tooke up hatchets, and being gallantly lead on by Captaine <hi>Woodhouſe,</hi>
+               <note place="margin">When the Battery had played upon the walls ſome time, Sir <hi>Simon</hi> ſent out to ſee what breaches were made thereby, and heare<g ref="char:EOLhyphen"/>ing of few, ſent word that the beſt way then to effect their d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſigne, was to ſtorme the Gates, which they did accordingly.</note> and Captain <hi>Congreave,</hi> went to the doore, and broke it downe, although it was with great obſtinacy and violence defended by the Rebels within,<note place="margin">As Maſter <hi>Hammond,</hi> Sir <hi>Simon Har<g ref="char:EOLhyphen"/>courts</hi> Enſigne relateth ſince his arrivall.</note> who never gave over, but even after they had entered the Caſtle, killed ſome of our men out of the Garrets above, and from the Cellars below, but they were all quickly made a Sacrifice. And ſuch
+<pb n="3" facs="tcp:99586:3"/> was the fury of our men, that they ſpared neither man, woman, nor childe, but put them all to the ſword, to the number of about 300. and blew up the Caſtle. They brought off Sir <hi>Simon Harcourt</hi> to Mirian;<note place="margin">Captaine <hi>Congreave</hi> having gotten into the Caſtle called for the Maſter of the houſe, in whoſe ſ tead his Son appeared, of whom Captaine <hi>Congreave</hi> d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>manded the fellow in greene that ſhewed himſelfe ſo often upon the battlements; but was anſwered, I know not whom you meane. Yet being further threat<g ref="char:EOLhyphen"/>ned, he brought him out; and upon their ap<g ref="char:EOLhyphen"/>pearance Captaine <hi>Congreave</hi> having with him a Caſe of Piſtols charged, diſcharged both upon them, ſo killing them with his owne hands.</note> a Caſtle belonging to my Lord <hi>Fitz Willi<g ref="char:EOLhyphen"/>am</hi> his paine ſo much encreaſing, as hee was not able to endure to come to this Towne. I went yeſterday to viſit him, but found his ſpi<g ref="char:EOLhyphen"/>rits ſo ſpent, as he was able to ſay little to me.<note place="margin">Maſter <hi>Robert Hammond</hi> above menti<g ref="char:EOLhyphen"/>oned relateth this.</note> I finde he hath cauſed his Will to the ſame effect to be ſet downe a little more at large, and had paſſed the night in moſt extreame paine, but full of comfort, ſweet ejaculations, and words expreſſing the aſſurance he had of Gods favour. His friends in England muſt needs bee much afflicted with his loſſe, but we here, as we have moſt cauſe, muſt moſt lament it. His firſt arrivall here brought us much comfort, and all our undertakings have beene bleſſed with ſucceſſe, ſince his comming over. I aſ<g ref="char:EOLhyphen"/>ſure you we doe attribute very much thereof to his courage, zeale to the cauſe, and wiſe mannagement of our Martiall affaires, we all acknowledge to owe very much to his memory, and as an expreſſion of it, when I came back from him to the Counſell Board, and the newes being preſently brought of
+<pb n="4" facs="tcp:99586:4"/> his departure, I moved the Lords, that by our re<g ref="char:EOLhyphen"/>commendation of him to the Parliament, we might endeavour to obtaine a large proportion of land to be ſetled upon his wife and children, as a recom<g ref="char:EOLhyphen"/>pence in part of the great ſervice he hath done here, which motion tooke ſo well, that they all agreed to it, and have fixed upon that particular proportion of Land, whereon he loſt his life. It belongs to one <hi>Welſh,</hi> and is very good Land, worth five hundred pounds <hi>per annum,</hi> which I conceived too narrow a recompence, and therefore moved our Letters might be of larger extent, which their Lordſhips preſently condeſcended unto, and it is reſolved we ſhall write unto the Parliament, and my Lord Lieutenant on their behalfe with all the earneſtneſſe that may be. This is all the ſervice I can doe them for the pre<g ref="char:EOLhyphen"/>ſent, you may aſſure my Lady, that if it ſhall lie in my power further to ſerve her here, ſhe ſhall ſee how high a value I put upon her gallant husband now at reſt, and delivered from the miſeries we dai<g ref="char:EOLhyphen"/>ly taſte of.</p>
+            <p>Yet I muſt tell you, it pleaſeth God ſtill to goe along with us, and we have other gallant inſtru<g ref="char:EOLhyphen"/>ments, that goe bravely on to take vengeance of theſe accurſed villaines. I received yeſterday a let<g ref="char:EOLhyphen"/>ter from Captaine <hi>Arrow,</hi> now at <hi>Dondalke,</hi> with Sir <hi>Henry Titchbourne,</hi> which he writes to me they have taken in, and that they have there, and at <hi>Ardee</hi> ſlaine great numbers of the Rebells, as I here above a 1000. ſince the raiſing of the ſiege of <hi>Tredagh:</hi> Captaine <hi>Marrow</hi> is very zealous and for<g ref="char:EOLhyphen"/>ward, and hath already done very good ſervice, ſince he came over with his troop, who doe ſharpe
+<pb n="5" facs="tcp:99586:4"/> execution, and ſpare none. He had the Avant-guard when they entred <hi>Dondalke,</hi> which was defended 12. houres by the Rebells, and yet he loſt but one man in his troope, and there were not 20. of ours loſt in all.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
